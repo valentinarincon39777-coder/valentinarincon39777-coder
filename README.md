@@ -52,7 +52,7 @@
 <!--tech stack icons-->
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,py,css,html,js,mysql,git,github,vscode,n8n" />
+<img src="https://skillicons.dev/icons?i=java,mysql,py,css,html,js,git,github,vscode" />
 </a>
 </p>
 <br>
