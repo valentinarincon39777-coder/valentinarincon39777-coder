@@ -19,7 +19,7 @@
 <a href="https://www.youtube.com/@ValentinaCoding" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
 
 <!-- LINK LINKEDIN -->
-<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://www.linkedin.com/in/valentina-rincon-mayorga-787b583a9/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 
 
 </p>
