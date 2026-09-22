@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Valentina / una desarrolladora junior de software en entrenamiento✨ </h1> 
+<h1 align="center">Hola 👋  soy Valentina / una desarrolladora junior de software en entrenamiento ✨ </h1> 
 
 <!-- LINK YOUTUBE -->
 <p align="left">
@@ -9,35 +9,41 @@
 <a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 
 
+<!-- LINK PORTAFOLIO -->
 <a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+
+
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
-<!--Intro start-->
+<!--INTRODUCCION -->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 Técnica en Inteligencia Artificial y Desarrollo de Software - En curso
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🎥 Mi objetivo es continuar desarrollándome tanto en habilidades tecnológicas como a nivel personal. 
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻  Con experiencia académica práctica en programación, desarrollo web, bases de datos, automatización e inteligencia artificial.
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝  Interesada principalmente en desarrollo backend y actualmente en formación en Java y Spring Boot.
 
-📫 Contacto: **unsimpledev@gmail.com**
-<!--Intro end-->
+📫 Contacto: **valentinarincon39777@gmail.com**
+<!--Introducción final-->
   </p>
 <br>
+
+
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,mysql,git,github,vscode,bash,linux,ai" />
   </a>
 </p>
 <br>
+
+
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
