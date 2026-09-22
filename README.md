@@ -38,10 +38,13 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,mysql,git,github,vscode,bash,linux,ai" />
+    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,mysql,git,github,vscode,n8n" />
   </a>
 </p>
 <br>
+
+
+
 
 
 <!-------------------------->
