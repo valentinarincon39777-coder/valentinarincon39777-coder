@@ -37,7 +37,7 @@
 <p align="left">
 🎓 Técnica en Inteligencia Artificial y Desarrollo de Software - En curso
 
-🎥 Mi objetivo es continuar evolucionando tanto en habilidades tecnológicas como a nivel personal.
+🦾 Mi objetivo es continuar evolucionando tanto en habilidades tecnológicas como a nivel personal.
 
 💻 Con experiencia académica práctica en programación, desarrollo web, bases de datos, automatización e inteligencia artificial.
 
