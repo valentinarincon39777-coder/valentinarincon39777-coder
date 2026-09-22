@@ -7,7 +7,7 @@
 
 <div align='center'>
 
-<p align="center">
+<p >
 <a href="https://www.youtube.com/@ValentinaCoding" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
 
 <!-- LINK LINKEDIN -->
