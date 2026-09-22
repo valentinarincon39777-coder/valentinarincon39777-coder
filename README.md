@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 
 <!-- LINK PORTAFOLIO -->
-<a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" alt="unsimpledev" /></a>
+<a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="unsimpledev" /></a>
 
 </p>
 
