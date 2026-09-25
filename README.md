@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hola 👋 soy Valentina / desarrolladora junior de software en entrenamiento ✨ </h1>
+<h1 align="center">Hola 👋 soy Valentina / desarrolladora de software en formación✨ </h1>
 
 <!-- LINK YOUTUBE -->
 
